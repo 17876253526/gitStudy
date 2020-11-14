@@ -5,5 +5,7 @@ public class message {
         System.out.println("!!$$$$eowo###wo");
         System.out.println("**&&#&@@@111#");
         System.out.println("3333333");
+        System.out.println("!!!00");
+        System.out.println("!@444");
     }
 }
