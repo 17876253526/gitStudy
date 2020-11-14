@@ -7,5 +7,8 @@ public class message {
         System.out.println("3333333");
         System.out.println("!!!00");
         System.out.println("!@444");
+        System.out.println("123");
+        System.out.println("4422");
+        System.out.println("###");
     }
 }
