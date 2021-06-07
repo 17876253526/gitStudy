@@ -7,5 +7,7 @@ public class test2 {
         System.out.println("我是test1,即将合并到master");
 
         System.out.println("123462");
+
+        System.out.println("tttttt");
     }
 }
